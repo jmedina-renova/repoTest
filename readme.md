@@ -14,3 +14,4 @@ Algunos de estos comandos básicos son
 * **git restore**: Remueve un archivo del estado staged.
 * **git commit**: Versiona los archivos que se encuentren en el estado staged, es siempre recomendable correr este comando con el parámetro -m, para incluir un mensaje descriptivo del cambio realizado, e.g. commit -m "Se solucionó bug en módulo forecasting."
 
+esto es un error
