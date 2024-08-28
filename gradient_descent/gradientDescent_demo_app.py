@@ -3,6 +3,8 @@
 Created on Mon Aug 26 16:54:48 2024
 
 @author: jmedina
+Demo app para visualizar el proceso del descenso del gradiente.
+Este algoritmo se encuentra en el núcleo de todo sistema de AI que utilice redes neuronales.
 """
 
 import numpy as np

@@ -7,6 +7,7 @@ Se introducen los comandos elementales y las distintas aplicaciones que tiene un
 Se revisan los comandos básicos necesarios para empezar a utilizar las funcionalidades de Git, se pretende que sea un curso interactivo en el que los participantes usan estos comandos durante la capacitación para poder apreciar y practicar el uso de la consula GitBash.
 Algunos de estos comandos básicos son
 * **git init**: Inicializa un repositorio, e.g. git init testRepo
+* **git config**: Se usa para configurar y visualizar configuraciones del repositorio. e.g. git config --list
 * **git status**: Imprime en pantalla el estado actual del repositorio, archivos modificados, archivos no versionados, archivos en estado staged(listos para ser versionados).
 * **git branch**: Se utiliza para crear y renombrar branches(ramificaciones) de un proyecto o repositorio.
 * **git log**: Imprime en pantalla en historial de commits, merges y rebase en el repositorio.
