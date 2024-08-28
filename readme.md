@@ -3,9 +3,6 @@
 ### Introducción 
 En esta pequeña introducción a los conceptos básicos de Git y GitHub se presentan las funcionalidades básicas del sistema de versionamiento Git.
 Se introducen los comandos elementales y las distintas aplicaciones que tiene un sistema de versionamiento en el desarrollo de software, pero se pone énfasis en uso en la unidad de Inteligencia de mercado RENOVA Analytics.
-
-
-Parrafo de prueba.
 ### Comandos Básicos
 Se revisan los comandos básicos necesarios para empezar a utilizar las funcionalidades de Git, se pretende que sea un curso interactivo en el que los participantes usan estos comandos durante la capacitación para poder apreciar y practicar el uso de la consula GitBash.
 Algunos de estos comandos básicos son
